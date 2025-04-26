@@ -107,7 +107,7 @@
 
 ---
 
-<details>
+<!-- <details>
 <summary>🐍 Contribution Snake</summary>
 
 <br>
@@ -118,5 +118,5 @@
 
 </details>
 
----
+--- -->
 
