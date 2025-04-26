@@ -84,14 +84,14 @@
 
 <br>
 
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-yellowgreen?logo=amazonaws)
-- ![Power BI Data Analyst Associate](https://img.shields.io/badge/Power%20BI-Data%20Analyst-blue?logo=powerbi)
-- ![Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Azure-Fundamentals-blue?logo=microsoftazure)
-- ![Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?logo=microsoftazure)
-- ![Azure AI Fundamentals (AI-900)](https://img.shields.io/badge/Azure-AI%20Fundamentals-lightblue?logo=microsoftazure)
-- ![Power Platform Fundamentals (PL-900)](https://img.shields.io/badge/Power%20Platform-Fundamentals-purple?logo=microsoftpowerplatform)
-- ![Astronomer Certification for Airflow](https://img.shields.io/badge/Airflow-Fundamentals-brightgreen?logo=apacheairflow)
-- ![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-red?logo=databricks)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/903dbc67-de1e-4b53-9fa5-789ff3b8c71f/linked_in_profile)
+- [Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/niltonandrade94/10AB6A49203D5940?sharingId=2E18E9AE734327FE)
+- [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/fe34ae25-4c46-4252-a55f-dbfea15cb566/linked_in_profile)
+- [Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/1f11ebdb-72fe-41ef-a2e2-6ab463cc62a4/linked_in_profile)
+- [Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/90c26c03-c7fe-4198-bf6e-fdc66384cb03/linked_in_profile)
+- [Power Platform Fundamentals (PL-900)](https://www.credly.com/badges/c9d6ea4e-faf1-4419-8d0f-d500992a17a2/linked_in_profile)
+- [Astronomer Certification for Airflow](https://www.credly.com/badges/3bb7a16a-1b1b-4bce-a095-189cbbeefe68/linked_in_profile)
+- [Databricks Fundamentals](https://credentials.databricks.com/45faf67b-90b4-4c4d-9d5b-58705e130f0b#acc.6gBOjQDH)
 
 </details>
 
