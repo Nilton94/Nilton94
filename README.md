@@ -80,6 +80,24 @@
 ---
 
 <details>
+<summary>🎖️ Certifications</summary>
+
+<br>
+
+- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-yellowgreen?logo=amazonaws)
+- ![Power BI Data Analyst Associate](https://img.shields.io/badge/Power%20BI-Data%20Analyst-blue?logo=powerbi)
+- ![Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Azure-Fundamentals-blue?logo=microsoftazure)
+- ![Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?logo=microsoftazure)
+- ![Azure AI Fundamentals (AI-900)](https://img.shields.io/badge/Azure-AI%20Fundamentals-lightblue?logo=microsoftazure)
+- ![Power Platform Fundamentals (PL-900)](https://img.shields.io/badge/Power%20Platform-Fundamentals-purple?logo=microsoftpowerplatform)
+- ![Astronomer Certification for Airflow](https://img.shields.io/badge/Airflow-Fundamentals-brightgreen?logo=apacheairflow)
+- ![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-red?logo=databricks)
+
+</details>
+
+---
+
+<details>
 <summary>🏆 GitHub Trophies</summary>
 
 <br>
