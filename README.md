@@ -107,7 +107,6 @@
 
 ---
 
-<!-- Snake animation commented out for now because setup is needed
 <details>
 <summary>🐍 Contribution Snake</summary>
 
@@ -118,7 +117,6 @@
 </p>
 
 </details>
--->
 
 ---
 
