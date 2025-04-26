@@ -84,8 +84,8 @@
 
 <br>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/903dbc67-de1e-4b53-9fa5-789ff3b8c71f/linked_in_profile)
-- [Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/niltonandrade94/10AB6A49203D5940?sharingId=2E18E9AE734327FE)
+- [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/903dbc67-de1e-4b53-9fa5-789ff3b8c71f/linked_in_profile)
+- [Power BI Data Analyst Associate (DP-300)](https://learn.microsoft.com/api/credentials/share/en-us/niltonandrade94/10AB6A49203D5940?sharingId=2E18E9AE734327FE)
 - [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/fe34ae25-4c46-4252-a55f-dbfea15cb566/linked_in_profile)
 - [Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/1f11ebdb-72fe-41ef-a2e2-6ab463cc62a4/linked_in_profile)
 - [Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/90c26c03-c7fe-4198-bf6e-fdc66384cb03/linked_in_profile)
